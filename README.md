@@ -1,11 +1,13 @@
 # Redes1_Practica1_202101728
 
-# Manual Técnico - Práctica 1: Red Institucional de 3 Niveles
+# Manual Técnico - Práctica 1:
 
-**Estudiante:** Iris Carolina Paz Guzman
+Red Institucional de 3 Niveles 
+
+ Iris Carolina Paz Guzman
 
 **Carnet:** 202101728
-**Curso:** Redes de Computadoras 1
+**Curso:** Redes de Computadoras 1 A
 
 ## 1. Descripción de la Solución
 Se diseñó e implementó una topología de red para un edificio de tres niveles, utilizando un esquema de conmutación jerárquico. La red permite la comunicación fluida entre departamentos de distintos pisos y el acceso a servidores centrales.
