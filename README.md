@@ -2,7 +2,8 @@
 
 # Manual Técnico - Práctica 1: Red Institucional de 3 Niveles
 
-**Estudiante:** [Tu Nombre]
+**Estudiante:** Iris Carolina Paz Guzman
+
 **Carnet:** 202101728
 **Curso:** Redes de Computadoras 1
 
